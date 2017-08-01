@@ -29,6 +29,7 @@
      <suiteXmlFiles>
 
         <suiteXmlFile>emailservice.xml</suiteXmlFile>
+        <suiteXmlFile>phantom.xml</suiteXmlFile>
 
      </suiteXmlFiles>
 
