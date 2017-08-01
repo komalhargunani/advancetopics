@@ -26,10 +26,10 @@
 
    <configuration>
 
-     <suiteXmlFiles suitethreadpoolsize="2">
+     <suiteXmlFiles>
 
         <suiteXmlFile>emailservice.xml</suiteXmlFile>
-        <suiteXmlFile1>phantom.xml</suiteXmlFile1>
+       
 
      </suiteXmlFiles>
 
