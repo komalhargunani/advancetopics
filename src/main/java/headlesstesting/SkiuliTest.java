@@ -17,6 +17,8 @@ public class SkiuliTest {
 		// Create object of Pattern class and specify the images path
 		 
 		Pattern image = new Pattern("E:\\sikuli\\login.PNG");
+		Pattern image1 = new Pattern("E:\\sikuli\\amazon.PNG");
+		
 		
 		
 		
@@ -26,6 +28,7 @@ public class SkiuliTest {
 		
 		 
 		driver.get("http://www.google.com");
+		driver.get("");
 		 
 		screen.wait(image, 10);
 		 
